@@ -70,5 +70,9 @@ body {
 }
 
 .product-box {
-  border-radius: 8px;
+  border: solid gray;
+}
+
+.link-block {
+  list-style: none;
 }
